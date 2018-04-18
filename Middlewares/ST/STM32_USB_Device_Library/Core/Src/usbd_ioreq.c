@@ -1,3 +1,5 @@
+//TRIPLE-O SUPER SCALAR
+//KANTHINKO 8000 DETTO HATE MAN BATTEZZATO NELLO STIGE
 /**
   ******************************************************************************
   * @file    usbd_ioreq.c
