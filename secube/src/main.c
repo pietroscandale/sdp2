@@ -134,6 +134,7 @@ void device_loop()
             se3_cmd_execute();
 			se3c0.comm.req_ready = false;
 			se3c0.comm.resp_ready = true;
+
 		}
 	}
 }
